@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhn-support-csears-tenant/demo-build/demo-build@sha256:9c97f9ad62719e26c3e4368527ceb2297a266289fa6c9c0e328ec90811e1e24d
+      - image: quay.io/redhat-user-workloads/rhn-support-csears-tenant/demo-build/demo-build@sha256:cd0968bcffbbba62064b54fa67a59ce63ec5a0c783c743e21377882ec1f8502c
         name: my-java-springboot
         resources: {}
 status: {}
